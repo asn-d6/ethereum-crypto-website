@@ -2,14 +2,14 @@
   links:
     - name: Home
       link: /
-    - name: About
-      link: /about/
-    - name: Services
-      link: /services/
-    - name: Contact
-      link: /contact/
+    - name: Research
+      link: /research/
     - name: Blog
       link: /blog/
+    - name: Bounties
+      link: /bounties/
+    - name: Team
+      link: /team/
 - title: Social
   links:
     - name: Facebook
